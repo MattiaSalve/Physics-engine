@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I/opt/homebrew/Cellar/sfml/2.6.1/include",
+      "-o",
+      "main.o",
+      "main.cpp"
+    ],
+    "directory": "/Users/mattiasalvetti/Documents/programming/cpp/physics_engine/src",
+    "file": "/Users/mattiasalvetti/Documents/programming/cpp/physics_engine/src/main.cpp",
+    "output": "/Users/mattiasalvetti/Documents/programming/cpp/physics_engine/src/main.o"
+  }
+]
